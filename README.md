@@ -26,7 +26,6 @@ Cela lancera l'application en mode développement. Vous pourrez alors accéder �
 Cette application utilise plusieurs dépendances, notamment :
 - React : Une bibliothèque JavaScript pour la création d'interfaces utilisateur.
 - Axios : Un client HTTP basé sur les promesses pour effectuer des requêtes HTTP.
-- Chakra UI : Une bibliothèque de composants d'interface utilisateur pour React.
 - Tailwind CSS : Un framework CSS utilitaire pour la création rapide de mises en page.
 
 Assurez-vous d'avoir installé ces dépendances pour que l'application fonctionne correctement.
